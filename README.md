@@ -1,8 +1,6 @@
-                                                               Hi there 👋
-
 # About me:
 
-- 🔭 I’m currently working at Checkpoint as a software developer.
+- 🔭 I’m currently working at Checkpoint as a Software Developer.
 - 🌱 I’m currently learning BSc Computer Science 2nd year.
 - 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: I am a Tennis player.
