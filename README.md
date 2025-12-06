@@ -1,14 +1,8 @@
 # About me:
 
-- 🔭 I’m currently working at Checkpoint as a Software Developer.
-- 🌱 I’m currently learning M.Sc. Computer Science (AI) 1st year.
-- 👯 I’m looking to collaborate with other content creators.
+- 🔭 I’m currently working at IBM as an AI Research Scientist.
+- 🌱 I’m currently learning M.Sc. Computer Science (AI).
 - ⚡ Fun fact: I am a Tennis player.
-
-
-![Osher's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsherElhadad&show_icons=true&theme=dracula)
-
-[![Osher's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsherElhadad&layout=compact)](https://github.com/OsherElhadad/github-readme-stats)
 
 
 ### 📫 Connect with me:
