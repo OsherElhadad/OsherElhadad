@@ -1,7 +1,6 @@
 # About me:
 
 - 🔭 I’m currently working at IBM as an AI Research Scientist.
-- 🌱 I’m currently learning M.Sc. Computer Science (AI).
 - ⚡ Fun fact: I am a Tennis player.
 
 
